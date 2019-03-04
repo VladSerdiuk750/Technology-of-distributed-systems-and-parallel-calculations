@@ -1,0 +1,14 @@
+C:\Users\Vultys\source\repos\TDSPC\task2\bin\Debug\task2.exe.config
+C:\Users\Vultys\source\repos\TDSPC\task2\bin\Debug\task2.exe
+C:\Users\Vultys\source\repos\TDSPC\task2\bin\Debug\task2.pdb
+C:\Users\Vultys\source\repos\TDSPC\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+C:\Users\Vultys\source\repos\TDSPC\task2\obj\Debug\task2.exe
+C:\Users\Vultys\source\repos\TDSPC\task2\obj\Debug\task2.pdb
+C:\Users\Vultys\source\repos\TDSPC\task2\obj\Debug\task2.csprojAssemblyReference.cache
+C:\Users\Vultys\Desktop\Technology-of-distributed-systems-and-parallel-calculations\task2\bin\Debug\task2.exe.config
+C:\Users\Vultys\Desktop\Technology-of-distributed-systems-and-parallel-calculations\task2\bin\Debug\task2.exe
+C:\Users\Vultys\Desktop\Technology-of-distributed-systems-and-parallel-calculations\task2\bin\Debug\task2.pdb
+C:\Users\Vultys\Desktop\Technology-of-distributed-systems-and-parallel-calculations\task2\obj\Debug\task2.csprojAssemblyReference.cache
+C:\Users\Vultys\Desktop\Technology-of-distributed-systems-and-parallel-calculations\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+C:\Users\Vultys\Desktop\Technology-of-distributed-systems-and-parallel-calculations\task2\obj\Debug\task2.exe
+C:\Users\Vultys\Desktop\Technology-of-distributed-systems-and-parallel-calculations\task2\obj\Debug\task2.pdb

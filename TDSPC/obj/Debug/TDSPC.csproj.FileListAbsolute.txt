@@ -1,0 +1,7 @@
+C:\Users\Vultys\source\repos\TDSPC\TDSPC\obj\Debug\TDSPC.csprojAssemblyReference.cache
+C:\Users\Vultys\source\repos\TDSPC\TDSPC\obj\Debug\TDSPC.csproj.CoreCompileInputs.cache
+C:\Users\Vultys\source\repos\TDSPC\TDSPC\bin\Debug\TDSPC.exe.config
+C:\Users\Vultys\source\repos\TDSPC\TDSPC\bin\Debug\TDSPC.exe
+C:\Users\Vultys\source\repos\TDSPC\TDSPC\bin\Debug\TDSPC.pdb
+C:\Users\Vultys\source\repos\TDSPC\TDSPC\obj\Debug\TDSPC.exe
+C:\Users\Vultys\source\repos\TDSPC\TDSPC\obj\Debug\TDSPC.pdb
